@@ -1,0 +1,19 @@
+segment_sources:
+  PE1A11BCD:
+    type: origin_type
+    relation: translation
+    language: en
+  PFDAF43F9:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  53626958d7e04b78bd738af82ac06d00:
+    PE1A11BCD: 418b496c2b424a9e9bfdd5c517ea712c
+    PFDAF43F9: d7d36240f5fd4bb5a0b0cf45eb8d7bc3
+  8156adf522684cc2bf3b5eaa79c7640e:
+    PE1A11BCD: bd3879e7fc3c428fa29e260c7bcb3e3d
+    PFDAF43F9: 75191d18ddf74d9c85c9fd18257a661a
+  2454a9edec5947acb3690c785c02c615:
+    PE1A11BCD: 8f49bee71e96415eba18cbaf637c339e
+    PFDAF43F9: 5000286b12e24306993de8089e011178

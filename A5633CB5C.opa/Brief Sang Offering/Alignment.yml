@@ -1,0 +1,13 @@
+segment_sources:
+  PE1A11BCD:
+    type: origin_type
+    relation: translation
+    language: en
+  PFDAF43F9:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  c67f82716cff4e6ca171100bfac58c65:
+    PE1A11BCD: 6e1f6603ec4c4f7e883c1931065853b7
+    PFDAF43F9: 66493fa52122484ab814a82787d936af
